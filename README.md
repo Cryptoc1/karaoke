@@ -25,4 +25,4 @@ class ViewController: NSViewController,
 
 ```
 
-The icon was provided by (Icons8)[Icons8.com]
+The icon was provided by [Icons8](Icons8.com)
