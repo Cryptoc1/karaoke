@@ -19,7 +19,7 @@ import AppKit
 // Setting to true enables logging in a some functions and what-not
 var DEVMODE: Bool = false
 
-class ViewController: NSViewController, 
+class ViewController: NSViewController, {
 
 ...
 
