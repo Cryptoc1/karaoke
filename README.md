@@ -9,20 +9,20 @@ think that the concept is cool. 😎
 # Notices
 To get more verbose information from the program, set `DEVMODE` to `true` in `ViewController.swift`.
     
-    ```swift
-    
-    ...
-    
-    import Cocoa
-    import AppKit
-    
-    // Setting to true enables logging in a some functions and what-not
-    var DEVMODE: Bool = false
-    
-    class ViewController: NSViewController, NSSpeechRecognizerDelegate {
-    
-    ...
-    
-    ```
+```swift
+
+...
+
+import Cocoa
+import AppKit
+
+// Setting to true enables logging in a some functions and what-not
+var DEVMODE: Bool = false
+
+class ViewController: NSViewController, 
+
+...
+
+```
 
 The icon was provided by (Icons8)[Icons8.com]
