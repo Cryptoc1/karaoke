@@ -694,7 +694,7 @@
                             </button>
                             <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="u56-QL-GLC">
                                 <rect key="frame" x="110" y="95" width="260" height="80"/>
-                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" borderStyle="bezel" alignment="center" id="QMu-wX-CX5">
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" borderStyle="bezel" alignment="center" placeholderString="To begin, complete the URL above to link to the webpage containing the song lyrics" id="QMu-wX-CX5">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
