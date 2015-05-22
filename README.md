@@ -6,7 +6,11 @@ The program compares lyrics from AZLyrics, and spoken word using `NSSpeechRecogn
 reason, I'll probably use this as a foundation to another app idea I have swirling around in my head (*"Stay tuned for more!"*). Regardless of it's effectiveness, I still
 think that the concept is cool. 😎
 
-# Notices
+## Screens
+![main](screens/main.png)
+![prompt for speech](screens/prompt-for-speech.png)
+![speech inputted](screens/speech-inputted.png)
+## Notices
 To get more verbose information from the program, set `DEVMODE` to `true` in `ViewController.swift`.
     
 ```swift
