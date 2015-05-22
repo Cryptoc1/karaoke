@@ -2,7 +2,7 @@
 This is a *very* simple karaoke app for Mac.
 
 ## How?
-The program compares lyrics from AZLyrics, and spoken word using NSSpeechRecognition. Though this works, "singing" may not be as easy as just speaking the text. For that
+The program compares lyrics from AZLyrics, and spoken word using `NSSpeechRecognition`. Though this works, "singing" may not be as easy as just speaking the text. For that
 reason, I'll probably use this as a foundation to another app idea I have swirling around in my head (*"Stay tuned for more!"*). Regardless of it's effectiveness, I still
 think that the concept is cool. 😎
 
