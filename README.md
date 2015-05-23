@@ -10,6 +10,7 @@ think that the concept is cool. 😎
 ![main](screens/main.png)
 ![prompt for speech](screens/prompt-for-speech.png)
 ![speech inputted](screens/speech-inputted.png)
+
 ## Notices
 To get more verbose information from the program, set `DEVMODE` to `true` in `ViewController.swift`.
     
@@ -23,7 +24,7 @@ import AppKit
 // Setting to true enables logging in a some functions and what-not
 var DEVMODE: Bool = false
 
-class ViewController: NSViewController, {
+class ViewController: NSViewController, NSSpeechRecognizerDelegate {
 
 ...
 
